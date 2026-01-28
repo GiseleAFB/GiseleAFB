@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá, eu sou a Gisele! 👋
+Estudante de Análise e Desenvolvimento de Sistemas na UNIVERSO, em busca de oportunidades no universo de Dados e Desenvolvimento de Software.
 
-<!--
-**GiseleAFB/GiseleAFB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mim
+🏫 Atualmente cursando o 2º período de ADS.
 
-Here are some ideas to get you started:
+🛠️ Experiência prática como Verificadora de Dados (CAEd).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔄 Transição de carreira: unindo anos de experiência profissional com novas competências tecnológicas.
+
+💻 Habilidades Técnicas
+Linguagens: C/C++, Python (em aprendizagem), SQL.
+
+Banco de Dados: MySQL.
+
+Ferramentas: Git, GitHub, Inteligência Artificial (GenAI).
+
+📫 Contato
+fgiselea@gmail.com 
+

@@ -2,7 +2,7 @@ Olá, eu sou a Gisele! 👋
 Estudante de Análise e Desenvolvimento de Sistemas na UNIVERSO, em busca de oportunidades no universo de Dados e Desenvolvimento de Software.
 
 🚀 Sobre mim
-🏫 Atualmente cursando o 2º período de ADS.
+🏫 Atualmente cursando o 3º período de ADS.
 
 🛠️ Experiência prática como Verificadora de Dados (CAEd).
 
